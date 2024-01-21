@@ -51,7 +51,7 @@ a {
 }
 
 .label::after {
-  content: 'POIMANDRES';
+  content: 'LUSION';
 }
 
 .caption {
@@ -61,7 +61,7 @@ a {
 }
 
 .caption::after {
-  content: 'Open source developer collective for the creative space';
+  content: "We build epic realtime interactive experience to blow people's mind";
 }
 
 .button {
@@ -101,10 +101,10 @@ a {
 
 @media (max-width: 800px) {
   .caption::after {
-    content: 'OSS dev collective  for the creative space';
+    content: "We build epic realtime interactive experience to blow people's mind";
   }
   .label::after {
-    content: 'PMNDRS';
+    content: 'LUSION';
   }
   .container {
     padding: 2em 3em 2em 3em;
@@ -129,7 +129,7 @@ a {
     gap: 0.5em;
   }
   .caption::after {
-    content: 'OSS dev collective';
+    content: 'We build epic realtime interactive experience';
   }
   .container {
     padding: 2em 2em 2em 2em;
