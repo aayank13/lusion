@@ -1,11 +1,11 @@
+import Home from "./pages/home.jsx";
 
 function App() {
-
   return (
     <>
-      <h1>Lusion clone</h1>
+      <Home />
     </>
   )
 }
 
-export default App
+export default App;
