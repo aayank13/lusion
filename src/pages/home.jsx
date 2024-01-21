@@ -1,9 +1,9 @@
 import React from 'react'
-import App from '../models/connectors.jsx'
+import Connect from '../models/connectors.jsx'
 
 const Home = () => {
   return (
-    <App />
+    <Connect />
   )
 }
 
